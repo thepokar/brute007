@@ -2,7 +2,7 @@
 The Best Tool To Brute Force All Admin Panels In 2020
 
 <ul class="contains-task-list">
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Easy target selections</li>
+  <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Easy target selections</li>
 
 <li class="task-list-item"><input id="" class="task-list-item-checkbox" checked="checked" type="checkbox" /> Support Http And Https</li>
 <li class="task-list-item"><input id="" class="task-list-item-checkbox" checked="checked" type="checkbox" /> Brute Force All Admin Panels</li>
