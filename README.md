@@ -1,13 +1,12 @@
 # brute007
 The Best Tool To Brute Force All Admin Panels In 2020
-
+<!DOCTYPE html>
+<html lang="en">
+<body>
 <ul class="contains-task-list">
-  <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Easy target selections</li>
-
 <li class="task-list-item"><input id="" class="task-list-item-checkbox" checked="checked" type="checkbox" /> Support Http And Https</li>
 <li class="task-list-item"><input id="" class="task-list-item-checkbox" checked="checked" type="checkbox" /> Brute Force All Admin Panels</li>
 </ul>
-
 <h4>To use</h4>
 <p><code>git clone https://github.com/ElPoker007/brute007.git</code></p>
 <p><code>cd brute007</code></p>
@@ -17,3 +16,5 @@ The Best Tool To Brute Force All Admin Panels In 2020
 <h4>Follow Me</h4>
 
 <a href="https://www.youtube.com/channel/UCkmU73jmY7TFUEYF0OGMQFQ">My Channel on youtube</a>
+</body>
+</html>
