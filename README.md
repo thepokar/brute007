@@ -3,17 +3,11 @@ The Best Tool To Brute Force All Admin Panels In 2020
 <!DOCTYPE html>
 <html>
 <body>
-
-<h1>The input checked attribute</h1>
-
-<p>
-  <code> 
 <h4>
+
  <input type="checkbox" name="vehicle3" value="Boat" checked>
   <label for="vehicle1">I have a bike</label>
 </h4>
-  </code>
-</p>
 
 </body>
 </html>
