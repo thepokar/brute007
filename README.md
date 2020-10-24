@@ -4,7 +4,7 @@ The Best Tool To Brute Force All Admin Panels In 2020
 <html lang="en">
 <body>
 <ul>
-<li>Beautiful Soup</li>
+<li><h4><input type="checkbox" name="vehicle3" value="Boat" checked><label for="vehicle1">I have a bike</label></h4></li>
 <li>Mechanize</li>
 </ul>
 <h4>To use</h4>
