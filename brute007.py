@@ -97,7 +97,7 @@ try:
                         kk.write(str(users.strip())+":"+str(pasw.strip()) + str(url.strip()))
                         kk.write("\n")
                         kk.close()
-                        print(colored("Sucess ====> " + str(users.strip())+":"+str(pasw.strip()) ,"green"))
+                        print(colored("Sucess ====> " + str(users.strip())+":"+str(pasw.strip())+ " " + str(url.strip()),"green"))
                         print(colored("Saved In found.txt","yellow"))
                         xx = 1
                     else:
@@ -146,7 +146,7 @@ try:
                             kk.write(zz)
                             kk.write("\n")
                             kk.close()
-                            print(colored("Sucess ====> " + str(users.strip())+":"+str(pasw.strip()) ,"green"))
+                            print(colored("Sucess ====> " + str(users.strip())+":"+str(pasw.strip())+ " " + str(url.strip()) ,"green"))
                             print(colored("Saved In found.txt","yellow"))
                             xx = 1
                         else:
