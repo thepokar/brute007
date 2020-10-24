@@ -3,9 +3,9 @@ The Best Tool To Brute Force All Admin Panels In 2020
 <!DOCTYPE html>
 <html lang="en">
 <body>
-<ul class="contains-task-list">
-<li class="task-list-item"><input id="" class="task-list-item-checkbox" checked="checked" type="checkbox" /> Support Http And Https</li>
-<li class="task-list-item"><input id="" class="task-list-item-checkbox" checked="checked" type="checkbox" /> Brute Force All Admin Panels</li>
+<ul>
+<li>Beautiful Soup</li>
+<li>Mechanize</li>
 </ul>
 <h4>To use</h4>
 <p><code>git clone https://github.com/ElPoker007/brute007.git</code></p>
