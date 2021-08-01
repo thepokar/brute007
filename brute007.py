@@ -151,10 +151,6 @@ elif cho == "2":
             
                 else:
                     pass
-            except mechanize._mechanize.FormNotFoundError:
-                form+=1
-            except mechanize._form_controls.ControlNotFoundError:
-                num+=1
             except KeyboardInterrupt:
                 print("\n")
                 print(colored("Bye !","red"))
